@@ -10,3 +10,6 @@ app.controller('carsCtrl', function($scope) {
         {'brand': 'Nissan', 'color': 'verte'},
     ];
 });
+oModule.filter('oCarColor', function(){
+  if ('color' == )
+})
